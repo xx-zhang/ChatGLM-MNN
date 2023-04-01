@@ -1,7 +1,7 @@
 # ignore dirs
 build/
 MNN/
-.vscode/
+# .vscode/
 libs/
 
 # ignore files

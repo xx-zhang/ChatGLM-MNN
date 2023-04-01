@@ -58,6 +58,7 @@ cd resource/models
 
 ### 3. Build and Run
 Mac/Linux/Windows:
+
 ```bash
 mkdir build
 cd build
